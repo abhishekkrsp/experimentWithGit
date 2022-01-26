@@ -25,7 +25,7 @@
 >- Command:  `git commit -m “[ Type in the commit message]” `
 
 
->###lists all the local branches in the current repository
+>### lists all the local branches in the current repository
 >- Command:   `git branch`
 
 >### To create new branch
@@ -37,7 +37,7 @@
 >### Switch from one branch to other
 >- Command:    `git checkout [branch name]`
 
->###Switch from one branch to new branch
+>### Switch from one branch to new branch
 >- Command:   `git checkout -b [branch name]`
 
 
